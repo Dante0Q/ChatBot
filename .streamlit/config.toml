@@ -1,0 +1,14 @@
+[theme]
+# Color principal
+primaryColor="#FF69B4"
+
+# Fondo
+backgroundColor="#F8F0E3"
+
+secondaryBackgroundColor="#FFB6C1"
+
+# Un color de texto
+textColor="#333333"
+
+# Tipo de fuente
+font="sans serif"
